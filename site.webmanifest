@@ -1,0 +1,15 @@
+{
+ "name": "Sunlit Roots Botanical",
+ "short_name": "Sunlit Roots",
+ "start_url": "./index.html",
+ "display": "browser",
+ "background_color": "#c4ad88",
+ "theme_color": "#5f734f",
+ "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

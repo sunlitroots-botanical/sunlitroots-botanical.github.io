@@ -1,0 +1,6 @@
+# Keep search engines out while the shop is Opening soon (no orders yet).
+# When the owner is ready to be found: replace "Disallow: /" with "Allow: /" and switch page meta robots to "index, follow".
+User-agent: *
+Disallow: /
+
+Sitemap: https://sunlitroots-botanical.github.io/sitemap.xml
